@@ -4,5 +4,6 @@ public class MainGitLearning {
         System.out.println("data vo vetve z masteru");
         String a = "gdfg";
         Integer druha = 2;
+        float f = 5.5f;
     }
 }
