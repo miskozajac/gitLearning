@@ -6,4 +6,5 @@ public class MasterPokracovanie {
     private Integer gddfg;
     private String hfg;
     private String hnfhn;
+    private String master;
 }
