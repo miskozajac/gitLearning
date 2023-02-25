@@ -11,5 +11,6 @@ public class MainGitLearning {
         String premC = "gdgh";
         System.out.println("master5");
         System.out.println("test");
+        System.out.println("test2");
     }
 }
