@@ -7,6 +7,7 @@ public class MainGitLearning {
         boolean r = true;
         float f = 5.5f;
         boolean g = false;
+        String premB = "gsffd";
         String premC = "gdgh";
     }
 }
