@@ -12,5 +12,6 @@ public class MainGitLearning {
         System.out.println("master5");
         System.out.println("test");
         System.out.println("test2");
+        System.out.println("MASTER-PRE-N");
     }
 }
