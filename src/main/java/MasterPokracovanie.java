@@ -3,4 +3,5 @@ public class MasterPokracovanie {
     private Integer cisloDva;
     private Integer dgf;
     private Integer sdf;
+    private Integer gddfg;
 }
