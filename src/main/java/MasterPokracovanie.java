@@ -4,4 +4,5 @@ public class MasterPokracovanie {
     private Integer dgf;
     private Integer sdf;
     private Integer gddfg;
+    private String hfg;
 }
