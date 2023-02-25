@@ -2,3 +2,4 @@ prvy commit opraveny
 dalsie pokracovanie zmien
 pridanie vo vetve1
 aha toto je v testovacej branchi
+dalsie veci v novej branchi z testu
