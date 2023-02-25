@@ -1,2 +1,3 @@
 prvy commit opraveny
 dalsie pokracovanie zmien
+pridanie vo vetve1
