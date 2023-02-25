@@ -5,5 +5,6 @@ public class Feature {
         System.out.println("f3");
         System.out.println("r1");
         System.out.println("r2");
+        System.out.println("r3");
     }
 }
