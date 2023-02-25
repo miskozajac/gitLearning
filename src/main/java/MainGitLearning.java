@@ -6,5 +6,6 @@ public class MainGitLearning {
         Integer druha = 2;
         boolean r = true;
         float f = 5.5f;
+        boolean g = false;
     }
 }
