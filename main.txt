@@ -1,6 +1,0 @@
-prvy commit opraveny
-dalsie pokracovanie zmien
-pridanie vo vetve1
-nove data do novej vetvy vychadzajucej z v1
-aha toto je v testovacej branchi
-dalsie veci v novej branchi z testu
